@@ -27,7 +27,7 @@ I’m currently learning **MongoDb, Frameworks etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aryan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arya-amour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan kumar" height="30" width="40" /></a>
 <a href="https://twitter.com/AryaAmour08" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=bG29Ckcdp6YP&format=png" alt="aryan kumar" height="40" width="40" /></a>
 </p>
 
