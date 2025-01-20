@@ -17,9 +17,9 @@
   
 ---
 
-I’m currently learning **MongoDb, Frameworks etc.**
+I'm currently building projects for clients
 
-- 💬 Ask me about **react, vit, node**
+- 💬 Ask me about **technical stuffs**
 
 - 📫 How to reach me **adaryan0811@gmail.com**
 
