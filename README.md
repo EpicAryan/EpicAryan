@@ -1,4 +1,5 @@
-[![Cover Image]([https://holopin.me/epicaryan](https://images.ctfassets.net/m3x6aw9x53qp/52reAZQltB7S9TkhQ40EFX/007decd6cfb904ddb9a6351b54b1ec3a/Twitter_Cover.png))]([https://holopin.io/@epicaryan](https://images.ctfassets.net/m3x6aw9x53qp/52reAZQltB7S9TkhQ40EFX/007decd6cfb904ddb9a6351b54b1ec3a/Twitter_Cover.png))
+![Cover Image](https://images.ctfassets.net/m3x6aw9x53qp/52reAZQltB7S9TkhQ40EFX/007decd6cfb904ddb9a6351b54b1ec3a/Twitter_Cover.png)
+
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
 <h3 align="center"> A passionate Software developer from India</h3>
 
