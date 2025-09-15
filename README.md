@@ -18,23 +18,24 @@
 ## 🛠️ Tech I Work With  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="30"/> <sub><b>JavaScript</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="30"/> <sub><b>TypeScript</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="30"/> <sub><b>React</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="30"/> <sub><b>Next.js</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redux" width="30"/> <sub><b>Redux</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="30"/> <sub><b>Node.js</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="30"/> <sub><b>Express.js</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="30"/> <sub><b>MongoDB</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="30"/> <sub><b>PostgreSQL</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="30"/> <sub><b>Tailwind CSS</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="30"/> <sub><b>Java</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="30"/> <sub><b>GitHub</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="30"/> <sub><b>AWS</b></sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="30"/> <sub><b>Postman</b></sub>&nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30" style="border-radius:50%"/> <sub><b>Motion</b></sub>&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="30"/> <sub><b>GSAP</b></sub>
+  <img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub><b>JavaScript</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="40"/><br/><sub><b>TypeScript</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub><b>React</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/><sub><b>Next.js</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" width="40"/><br/><sub><b>Redux</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><sub><b>Node.js</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="40"/><br/><sub><b>Express.js</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><sub><b>MongoDB</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><sub><b>PostgreSQL</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/><sub><b>Tailwind CSS</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub><b>Java</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40"/><br/><sub><b>GitHub</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/><br/><sub><b>AWS</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/><sub><b>Postman</b></sub>&nbsp;&nbsp;
+  <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png" width="40" style="border-radius:50%"/><br/><sub><b>Motion</b></sub>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40"/><br/><sub><b>GSAP</b></sub>
 </p>
+
 
 
 
@@ -76,7 +77,7 @@ Modern portfolio + blog with smooth animations and Sanity CMS integration.
 E-learning platform with dashboards, course modules, and protected access.  
 
 **Tech:**  
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs,postgres,express" width="240"/>  
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs,postgres,express" width="240"/>
 <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30"  style="border-radius:50%" title="Motion"/> 
 
 <p align="left">
@@ -85,6 +86,7 @@ E-learning platform with dashboards, course modules, and protected access.
 
 🔗 [Live Demo](https://www.excellencepathshala.in) 
 
+---
 
 ### Portfolio Website  
 Personal developer portfolio showcasing skills, projects, and blogs.  
