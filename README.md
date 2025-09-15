@@ -36,10 +36,8 @@
 Interactive product viewer with hotspots and zoom magnification.  
 
 **Tech:**  
-**Tech:**  
-**Tech:**  
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" width="30"/> 
-<img src="https://raw.githubusercontent.com/framer/motion/main/logo.svg" width="30" title="Framer Motion"/>  
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" width="120"/> 
+<img src="https://cdn.brandfetch.io/idDJv1mfrb/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1753779024848" width="30" title="Motion"/>  
 
 <p align="left">
   <img src="https://via.placeholder.com/450x250.png?text=Drake+Preview" width="420" />
