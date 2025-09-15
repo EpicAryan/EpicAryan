@@ -77,7 +77,7 @@
     <sub><b>Postman</b></sub>
   </td>
   <td align="center" width="100">
-    <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png" width="40" style="border-radius:50%"/><br/>
+    <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="40" style="border-radius:50%"/><br/>
     <sub><b>Motion</b></sub>
   </td>
   <td align="center" width="100">
