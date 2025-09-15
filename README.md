@@ -3,15 +3,15 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Aryan Kumar</h1>
-<h3 align="center">💻 Freelance Full-Stack Developer | Building scalable apps for clients worldwide</h3>
+<h3 align="center">💻 Freelance Full-Stack Developer(Frontend Specialist) | Building scalable web apps for clients worldwide</h3>
 
 ---
 
 ### 🚀 What I Do
-- Design and build **end-to-end web apps** — from UI to backend APIs  
-- Deliver **client projects** on time with clean, maintainable code  
-- Integrate **modern frameworks** (React, Next.js, Node.js, Express) with robust databases  
-- Deploy apps that are **fast, secure, and production-ready**  
+- Craft **pixel-perfect, responsive UIs** with React, Next.js, Motion, GSAP & Tailwind
+- Deliver **client projects** with smooth frontend + reliable backend APIs  
+- Optimize apps for **performance, accessibility, and scalability**  
+- Build production-ready solutions that **help businesses grow**  
 
 ---
 
@@ -30,19 +30,57 @@
 
 ---
 
-### 🌟 Featured Projects  
+## 🚀 Featured Projects  
 
-#### 🔹 [Project 1: Client Dashboard](https://github.com/epicaryan/client-dashboard)  
-📊 A full-stack **business dashboard** with analytics, role-based access, and REST APIs.  
-Tech: React, Node.js, MongoDB, Tailwind  
+### Drake  
+Interactive product viewer with hotspots and zoom magnification.  
 
-#### 🔹 [Project 2: Freelance E-Commerce App](https://github.com/epicaryan/freelance-ecommerce)  
-🛍️ Custom **e-commerce solution** for a freelance client with payment integration.  
-Tech: Next.js, Stripe, MongoDB, Express  
+**Tech:**  
+![Next.js](https://skillicons.dev/icons?i=nextjs) 
+![TypeScript](https://skillicons.dev/icons?i=ts) 
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
+![Framer](https://skillicons.dev/icons?i=framer)  
 
-#### 🔹 [Project 3: API Automation Suite](https://github.com/epicaryan/api-automation)  
-⚡ Built an API testing & automation suite for a client’s product launch.  
-Tech: Node.js, Postman, Jest  
+<p align="left">
+  <img src="https://via.placeholder.com/450x250.png?text=Drake+Preview" width="420" />
+</p>  
+
+🔗 [Live Demo](#)  
+
+---
+
+### Elixir  
+Modern portfolio + blog with smooth animations and Sanity CMS integration.  
+
+**Tech:**  
+![Next.js](https://skillicons.dev/icons?i=nextjs) 
+![TypeScript](https://skillicons.dev/icons?i=ts) 
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
+![Sanity](https://skillicons.dev/icons?i=sanity)  
+
+<p align="left">
+  <img src="https://via.placeholder.com/450x250.png?text=Elixir+Preview" width="420" />
+</p>  
+
+🔗 [Live Demo](#)  
+
+---
+
+### Excellence Pathshala  
+E-learning platform with dashboards, course modules, and protected access.  
+
+**Tech:**  
+![Next.js](https://skillicons.dev/icons?i=nextjs) 
+![TypeScript](https://skillicons.dev/icons?i=ts) 
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
+
+<p align="left">
+  <img src="https://via.placeholder.com/450x250.png?text=Excellence+Pathshala+Preview" width="420" />
+</p>  
+
+🔗 [Live Demo](#) | [GitHub](#)  
+
 
 #### 🔹 [Project 4: Portfolio Website](https://github.com/epicaryan/portfolio)  
 🌐 My personal **developer portfolio** showcasing skills, projects, and blogs.  
