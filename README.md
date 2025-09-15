@@ -15,18 +15,30 @@
 
 ---
 
-### 🛠️ Tech I Work With
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🛠️ Tech I Work With  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="40"/><b>JavaScript</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="40"/><b>TypeScript</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40"/><b>React</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40"/><b>Next.js</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" width="40"/><b>Redux</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><b>Node.js</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="40"/><b>Express.js</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><b>MongoDB</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40"/><b>PostgreSQL</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><b>Tailwind CSS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="40"/><b>Java</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40"/><b>GitHub</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/><b>AWS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="40"/><b>Postman</b> &nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/motiondivision/motion/main/packages/docs/public/favicon.svg" width="40"/><br/><b>Motion</b> &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40"/><br/><b>GSAP</b>  
+</p>
+
 
 ---
 
@@ -37,13 +49,13 @@ Interactive product viewer with hotspots and zoom magnification.
 
 **Tech:**  
 <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" width="120"/> 
-<img src="https://cdn.brandfetch.io/idDJv1mfrb/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1753779024848" width="30" title="Motion"/>  
+<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30" title="Motion"/>  
 
 <p align="left">
-  <img src="https://via.placeholder.com/450x250.png?text=Drake+Preview" width="420" />
+  <img src="https://images.ctfassets.net/m3x6aw9x53qp/3nxurRd0v51Fh8wCTrtj0j/214562b38175730e524293132c70cab2/smart.png" width="420" />
 </p>  
 
-🔗 [Live Demo](#)  
+🔗 [Live Demo](https://drakerelated-rho.vercel.app)  
 
 ---
 
@@ -51,16 +63,14 @@ Interactive product viewer with hotspots and zoom magnification.
 Modern portfolio + blog with smooth animations and Sanity CMS integration.  
 
 **Tech:**  
-![Next.js](https://skillicons.dev/icons?i=nextjs) 
-![TypeScript](https://skillicons.dev/icons?i=ts) 
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
-![Sanity](https://skillicons.dev/icons?i=sanity)  
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" width="120"/> 
+<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30" title="Motion"/>  
 
 <p align="left">
-  <img src="https://via.placeholder.com/450x250.png?text=Elixir+Preview" width="420" />
+  <img src="https://images.ctfassets.net/m3x6aw9x53qp/4ae88FumFZoEwoubMm7mGK/7bd84f9d487e6bc90876fdb88d4192cc/elixir.jpg" width="420" />
 </p>  
 
-🔗 [Live Demo](#)  
+🔗 [Live Demo](https://elixirinteriors.in)  
 
 ---
 
@@ -68,21 +78,25 @@ Modern portfolio + blog with smooth animations and Sanity CMS integration.
 E-learning platform with dashboards, course modules, and protected access.  
 
 **Tech:**  
-![Next.js](https://skillicons.dev/icons?i=nextjs) 
-![TypeScript](https://skillicons.dev/icons?i=ts) 
-![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs,postgres" width="120"/>  
+<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30" title="Motion"/> 
 
 <p align="left">
-  <img src="https://via.placeholder.com/450x250.png?text=Excellence+Pathshala+Preview" width="420" />
+  <img src="https://images.ctfassets.net/m3x6aw9x53qp/3HgCVfu9msfrsQx18qHqKj/976b44a107978f5ba7eeaa0b0828b3a2/Screenshot_2025-02-07_011134.png" width="420" />
 </p>  
 
-🔗 [Live Demo](#) | [GitHub](#)  
+🔗 [Live Demo](https://www.excellencepathshala.in) 
 
 
-#### 🔹 [Project 4: Portfolio Website](https://github.com/epicaryan/portfolio)  
-🌐 My personal **developer portfolio** showcasing skills, projects, and blogs.  
-Tech: React, Tailwind, Vercel  
+### Portfolio Website  
+Personal developer portfolio showcasing skills, projects, and blogs.  
+
+**Tech:**  
+<img src="https://skillicons.dev/icons?i=react,tailwind" width="30"/> 
+<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30" title="Motion"/> 
+  
+🔗 [Live Demo](https://www.dotaryan.com) 
+
 
 ---
 
@@ -101,7 +115,24 @@ Tech: React, Tailwind, Vercel
 
 ---
 
-### 🤝 Work With Me
-📬 **Email**: adaryan0811@gmail.com  
-🌐 **LinkedIn**: [Aryan Kumar](https://www.linkedin.com/in/arya-amour/)  
-🐦 **Twitter**: [@AryaAmour08](https://twitter.com/AryaAmour08)  
+## 🤝 Work With Me  
+
+<p align="left">
+  <a href="mailto:adaryan0811@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" title="Email"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arya-amour/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" title="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/AryaAmour08">
+    <img src="https://skillicons.dev/icons?i=twitter" width="30" title="Twitter"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arya-amour/">
+    <img src="https://img.shields.io/badge/Hire%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me"/>
+  </a>
+</p>
