@@ -14,61 +14,58 @@
 - Build production-ready solutions that **help businesses grow**  
 
 ---
-
 ## 🛠️ Tech I Work With  
 
 <p align="center">
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  <span>
     <img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub><b>JavaScript</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=ts" width="40"/><br/><sub><b>TypeScript</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub><b>React</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/><sub><b>Next.js</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=redux" width="40"/><br/><sub><b>Redux</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><sub><b>Node.js</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=express" width="40"/><br/><sub><b>Express.js</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><sub><b>MongoDB</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><sub><b>PostgreSQL</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/><sub><b>Tailwind CSS</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub><b>Java</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=github" width="40"/><br/><sub><b>GitHub</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=aws" width="40"/><br/><sub><b>AWS</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/><sub><b>Postman</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png" width="40" style="border-radius:50%"/><br/><sub><b>Motion</b></sub>
-  </div>
-  <div style="display:inline-block; text-align:center; margin:10px;">
+  </span>&nbsp;&nbsp;
+  <span>
     <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40"/><br/><sub><b>GSAP</b></sub>
-  </div>
+  </span>
 </p>
-
-
 
 
 
