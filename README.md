@@ -16,56 +16,76 @@
 ---
 ## 🛠️ Tech I Work With  
 
-<p align="center">
-  <span>
-    <img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub><b>JavaScript</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=ts" width="40"/><br/><sub><b>TypeScript</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=react" width="40"/><br/><sub><b>React</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/><sub><b>Next.js</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=redux" width="40"/><br/><sub><b>Redux</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><sub><b>Node.js</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=express" width="40"/><br/><sub><b>Express.js</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><sub><b>MongoDB</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/><sub><b>PostgreSQL</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/><sub><b>Tailwind CSS</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub><b>Java</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=github" width="40"/><br/><sub><b>GitHub</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=aws" width="40"/><br/><sub><b>AWS</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/><sub><b>Postman</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png" width="40" style="border-radius:50%"/><br/><sub><b>Motion</b></sub>
-  </span>&nbsp;&nbsp;
-  <span>
-    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40"/><br/><sub><b>GSAP</b></sub>
-  </span>
-</p>
+<table>
+<tr>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>
+    <sub><b>JavaScript</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>
+    <sub><b>TypeScript</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>
+    <sub><b>React</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>
+    <sub><b>Next.js</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=redux" width="40"/><br/>
+    <sub><b>Redux</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>
+    <sub><b>Node.js</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>
+    <sub><b>Express.js</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>
+    <sub><b>MongoDB</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/>
+    <sub><b>PostgreSQL</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>
+    <sub><b>Tailwind CSS</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>
+    <sub><b>Java</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>
+    <sub><b>GitHub</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=aws" width="40"/><br/>
+    <sub><b>AWS</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>
+    <sub><b>Postman</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png" width="40" style="border-radius:50%"/><br/>
+    <sub><b>Motion</b></sub>
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40"/><br/>
+    <sub><b>GSAP</b></sub>
+  </td>
+</tr>
+</table>
 
 
 
