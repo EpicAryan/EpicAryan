@@ -18,26 +18,24 @@
 ## 🛠️ Tech I Work With  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="40"/><b>JavaScript</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="40"/><b>TypeScript</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="40"/><b>React</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40"/><b>Next.js</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redux" width="40"/><b>Redux</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><b>Node.js</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="40"/><b>Express.js</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><b>MongoDB</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="40"/><b>PostgreSQL</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><b>Tailwind CSS</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="40"/><b>Java</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="40"/><b>GitHub</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="40"/><b>AWS</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="40"/><b>Postman</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="30"/> <sub><b>JavaScript</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="30"/> <sub><b>TypeScript</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="30"/> <sub><b>React</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="30"/> <sub><b>Next.js</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" width="30"/> <sub><b>Redux</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="30"/> <sub><b>Node.js</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="30"/> <sub><b>Express.js</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="30"/> <sub><b>MongoDB</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="30"/> <sub><b>PostgreSQL</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="30"/> <sub><b>Tailwind CSS</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="30"/> <sub><b>Java</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="30"/> <sub><b>GitHub</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="30"/> <sub><b>AWS</b></sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="30"/> <sub><b>Postman</b></sub>&nbsp;&nbsp;
+  <img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30" style="border-radius:50%"/> <sub><b>Motion</b></sub>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="30"/> <sub><b>GSAP</b></sub>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/motiondivision/motion/main/packages/docs/public/favicon.svg" width="40"/><br/><b>Motion</b> &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40"/><br/><b>GSAP</b>  
-</p>
 
 
 ---
@@ -49,7 +47,7 @@ Interactive product viewer with hotspots and zoom magnification.
 
 **Tech:**  
 <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" width="120"/> 
-<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30" title="Motion"/>  
+<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30"  style="border-radius:50%" title="Motion"/>  
 
 <p align="left">
   <img src="https://images.ctfassets.net/m3x6aw9x53qp/3nxurRd0v51Fh8wCTrtj0j/214562b38175730e524293132c70cab2/smart.png" width="420" />
@@ -64,7 +62,7 @@ Modern portfolio + blog with smooth animations and Sanity CMS integration.
 
 **Tech:**  
 <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" width="120"/> 
-<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30" title="Motion"/>  
+<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30"  style="border-radius:50%" title="Motion"/>  
 
 <p align="left">
   <img src="https://images.ctfassets.net/m3x6aw9x53qp/4ae88FumFZoEwoubMm7mGK/7bd84f9d487e6bc90876fdb88d4192cc/elixir.jpg" width="420" />
@@ -78,8 +76,8 @@ Modern portfolio + blog with smooth animations and Sanity CMS integration.
 E-learning platform with dashboards, course modules, and protected access.  
 
 **Tech:**  
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs,postgres" width="120"/>  
-<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30" title="Motion"/> 
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs,postgres,express" width="240"/>  
+<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30"  style="border-radius:50%" title="Motion"/> 
 
 <p align="left">
   <img src="https://images.ctfassets.net/m3x6aw9x53qp/3HgCVfu9msfrsQx18qHqKj/976b44a107978f5ba7eeaa0b0828b3a2/Screenshot_2025-02-07_011134.png" width="420" />
@@ -92,8 +90,8 @@ E-learning platform with dashboards, course modules, and protected access.
 Personal developer portfolio showcasing skills, projects, and blogs.  
 
 **Tech:**  
-<img src="https://skillicons.dev/icons?i=react,tailwind" width="30"/> 
-<img src="https://cdn.brandfetch.io/idDJv1mfrb/w/1080/h/1080/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1753779057992" width="30" title="Motion"/> 
+<img src="https://skillicons.dev/icons?i=react,tailwind" width="80"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="30" title="GSAP"/> 
   
 🔗 [Live Demo](https://www.dotaryan.com) 
 
